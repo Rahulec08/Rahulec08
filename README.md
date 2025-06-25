@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=QA+Architect+%7C+AI+Mobile+Automation+Developer;Creator+of+Appium-MCP+Framework;8%2B+Years+of+Automation+Excellence" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-sharma-01"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="mailto:rahulec08@gmail.com"><img src="https://img.shields.io/badge/Email-rahulec08@gmail.com-red?logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/Appium-MCP_Project-blueviolet?logo=appium" />
+  <img src="https://img.shields.io/badge/Automation%20Expert-JavaScript%20%7C%20Java-brightgreen" />
+</p>
+
+---
+
 # 👋 Hi, I'm Rahul Sharma
 
 🧪 **QA Architect | AI Automation Developer | Creator of Appium-MCP**  
@@ -7,60 +20,62 @@
 
 ## 🧠 About Me
 
-I'm a passionate **SDET/QA Architect** with 8+ years of experience in test automation, framework development, and DevOps practices.
+I'm a passionate **SDET/QA Architect** with 8+ years of experience in test automation, scalable framework design, and quality strategy.
 
-Currently, I'm **actively developing** an open-source project called **`appium-mcp`**, which enables **AI agents** (like ChatGPT or Ollama) to execute intelligent and contextual automation on **real Android/iOS devices**.
+Currently, I'm **actively developing** `appium-mcp`, an AI-native mobile automation framework that allows **AI agents** (like ChatGPT or Ollama) to interact with **real Android/iOS apps** using Appium, ADB, and Model Context Protocol.
 
-I’m exploring the frontier where **AI meets software quality** — building tools that make testing smarter, faster, and more human-like.
-
----
-
-## 🔧 What I'm Working On
-
-### 🚀 `appium-mcp` — AI-Driven Mobile Test Automation Framework  
-🔗 [Live Site](https://rahulec08.github.io/appium-mcp/) | [GitHub](https://github.com/rahulec08/appium-mcp)
-
-**Core Features:**
-- Combines `Appium`, `ADB`, and `Model Context Protocol (MCP)` to create a **mobile automation interface for AI agents**
-- Enables **natural language test execution** by AI (e.g. "Open Settings → Tap on 'About Phone'")
-- Supports **deep linking**, **element context fetching**, and **device-level control**
-- CLI tool + modular design to plug into different AI agents and test systems
-- Future support for **visual regression** and **prompt-based test generation**
-
-I am the **main developer and architect** of this project.
+I believe the future of testing lies in intelligent, autonomous systems that understand **context, not just clicks**.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 Current Project: `appium-mcp`
 
-**Languages & Frameworks:**  
-`Java`, `JavaScript`, `Node.js`, `Python`, `FastAPI`
+🔗 **Live:** [rahulec08.github.io/appium-mcp](https://rahulec08.github.io/appium-mcp/)  
+📂 **Repo:** [github.com/rahulec08/appium-mcp](https://github.com/rahulec08/appium-mcp)
 
-**Automation Tools:**  
-`Appium`, `ADB`, `Selenium`, `Playwright`, `Rest Assured`, `Allure`, `TestNG`, 'extent report'
+### 💡 Highlights:
 
-**AI & LLMs:**  
-`OpenAI GPT`, `LangChain`, `Ollama`, `Model Context Protocol (MCP)`
-
-**CI/CD & DevOps:**  
-`Jenkins`, `GitHub Actions`, `Docker`, `AWS`, `BrowserStack`
+- Combines **Appium**, **ADB**, and **MCP** for real-device interaction
+- Enables **natural language test execution** via AI agents
+- Contextual element fetching, deep linking, permission handling
+- Modular CLI interface + AI plugin architecture
+- Future support for **visual regression** and **design fidelity**
 
 ---
 
-## 🔍 Side Goals
+## 🛠️ Tech Stack
 
-- 🧠 Building a prompt-based test case generator using LLMs + Playwright  
-- 📱 Enabling mobile deep-link automation via natural language  
-- 🧪 Creating reusable QA utility libraries for testers and devs  
-- 👥 Mentoring junior testers and leading QA strategy in cross-functional teams
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+**Tools & Frameworks:**  
+`Appium`, `ADB`, `Selenium`, `Playwright`, `Allure`, `Rest Assured`, `TestNG`, `Cucumber`, `Postman`  
+**AI/LLM:** `OpenAI GPT`, `LangChain`, `Ollama`, `Model Context Protocol (MCP)`  
+**CI/CD & Infra:** `Jenkins`, `GitHub Actions`, `Docker`, `AWS`, `BrowserStack`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulec08&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulec08&theme=tokyonight" alt="Rahul's contribution streak" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-sharma-01)  
+- 💼 [LinkedIn](https://linkedin.com/in/rahul-sharma-01)  
 - 📧 Email: rahulec08@gmail.com  
-- 🌐 [GitHub Pages](https://rahulec08.github.io/appium-mcp/)  
+- 🌐 [Project Page](https://rahulec08.github.io/appium-mcp/)  
 - 🛠️ [GitHub Repo](https://github.com/rahulec08/appium-mcp)
 
 ---
