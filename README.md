@@ -61,16 +61,6 @@ I believe the future of testing lies in intelligent, autonomous systems that und
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulec08&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulec08&theme=tokyonight" alt="Rahul's contribution streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/rahul-sharma-01)  
